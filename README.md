@@ -4,6 +4,12 @@ This repository is used to practice
 branching, merging, and reverting in Git.
 
 ## Features
-- Branch management
-- Conflict handling
-- History control
+
+* Branch management
+* Conflict handling
+* History control
+
+\## Status
+
+Profile feature is in progress.
+
